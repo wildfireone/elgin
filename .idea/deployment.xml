@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="csdm-lamp" filePermissions="420" folderPermissions="493">
+    <serverData>
+      <paths name="csdm-lamp">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/elgin" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/elgin/resources/pointclouds" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
